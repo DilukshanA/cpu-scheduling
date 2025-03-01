@@ -1,3 +1,5 @@
+/*priority sheduling algorithms*/
+
 #include<stdio.h>
 
 struct process {
